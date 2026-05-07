@@ -68,7 +68,11 @@ streamlit run app.py
 
 ### 📁 Project Structure
 
-Task4-NetflixDashboard/│├── app.py├── netflix_titles.csv├── README.md
+Task4-NetflixDashboard/
+│
+├── app.py
+├── netflix_titles.csv
+├── README.md
 
 ### 🎥 Demo
 The dashboard demonstrates:
